@@ -2,7 +2,17 @@
 
 This repository contains the dotfiles I use to setup my Terminal workflow on my Linux system(Evangelion inspired)
 
+## Preview
 
+![screenshot 1](images/swappy-20260421-094056.png)
+
+![screenshot 2](images/swappy-20260421-094124.png)
+
+![screenshot 3](images/swappy-20260421-094135.png)
+
+![screenshot 4](images/swappy-20260421-094156.png)
+
+![screenshot 5](images/swappy-20260421-094218.png)
 
 
 
