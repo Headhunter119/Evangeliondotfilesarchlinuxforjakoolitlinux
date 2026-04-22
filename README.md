@@ -27,7 +27,7 @@ This repository contains the dotfiles I use to setup my Terminal workflow on my 
 
 
 
-Taken inspiration from:
+Taken inspiration from(nvim and yazi):
 https://github.com/shorya-1012/dotfiles
 
 Uses this shell:
